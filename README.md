@@ -2,8 +2,6 @@
 
 #Geomatics #RemtoeSensing #GIS #Maps #Landcover #Surfacewater #Landsat #MachineLearning #GeoAI<br/>
 
-SurveyOfficer @GovernmentofNepal <br/>
-BE in Geomatics Engineering @KUNepal
 <br/>
 
 <a href="https://scholar.google.com/citations?user=qW7GXrcAAAAJ&hl=en">
