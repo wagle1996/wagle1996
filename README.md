@@ -22,4 +22,4 @@
 <br/>
 
 ___
-<img align="left" alt="JPG" src="https://pbs.twimg.com/profile_banners/794432599804391425/1598289238/1500x500" />
+<img align="left" alt="JPG" src="https://geospatial.umd.edu/sites/geospatial.umd.edu/files/styles/500w/public/digital-earth.jpg?itok=36Ku7CsZ" />
