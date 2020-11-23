@@ -6,7 +6,6 @@
 #Geomatics #RemtoeSensing #GIS #Maps #Landcover #Surfacewater #Landsat #MachineLearning #GeoAI<br/>
 
 <br/>
-
 <a href="https://scholar.google.com/citations?user=qW7GXrcAAAAJ&hl=en">
   <img align="center" alt="NW's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
@@ -23,8 +22,6 @@
   <img align="center" alt="NW's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
-
 </div>
-
 ___
 <img align="left" alt="JPG" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/09/Janus_GEOINT_2018_highres.jpg" />
