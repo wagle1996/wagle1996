@@ -22,4 +22,4 @@
 <br/>
 
 ___
-<img align="left" alt="JPG" src="https://geospatial.umd.edu/sites/geospatial.umd.edu/files/styles/500w/public/digital-earth.jpg?itok=36Ku7CsZ" />
+<img align="left" alt="JPG" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/09/Janus_GEOINT_2018_highres.jpg" />
