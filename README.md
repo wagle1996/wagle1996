@@ -3,7 +3,7 @@
   
 ## Hello there! I am Nimisha Wagle. Welcome to my GitHub Page. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-#Geomatics #RemtoeSensing #GIS #Maps #Landcover #Surfacewater #Landsat #MachineLearning #GeoAI<br/>
+#Geomatics #RemoteSensing #GIS #Maps #Landcover #Surfacewater #Landsat #MachineLearning #GeoAI<br/>
 
 <br/>
 <a href="https://twitter.com/wagle1996">
